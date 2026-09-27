@@ -61,6 +61,10 @@ Risk Score validation: The custom rule (low credit score + young age + high-risk
 Compounded risk: Individual risk factors understate real risk when combined — age and region together nearly double the expected default rate.
 Rating system validation: Home Credit's existing region-rating system is statistically accurate and should be retained, not replaced.
 Non-linear financial risk: Larger loans and higher income-to-credit ratios are not automatically safer — mid-range segments need the most scrutiny, challenging a common assumption in credit risk.
+
+
+
+
 📁 Repository Structure
 loan-default-risk-analytics/
 ├── README.md
