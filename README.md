@@ -64,15 +64,3 @@ Non-linear financial risk: Larger loans and higher income-to-credit ratios are n
 
 
 
-
-📁 Repository Structure
-loan-default-risk-analytics/
-├── README.md
-├── SQL query file.sql
-├── BFSI Risk.ipynb
-└── Screenshots/
-    ├── Screenshot.png
-    ├── Screenshot.png
-    ├── Screenshot.png
-    ├── Screenshot.png
-    └── Screenshot .png
